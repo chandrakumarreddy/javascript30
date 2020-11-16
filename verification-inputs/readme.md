@@ -3,7 +3,7 @@
 1. Handle focus properly ✅
 1. Handle pastes properly ✅
 
-![preview](https://raw.githubusercontent.com/chandrakumarreddy/javascript30/verification-inputs/preview.png)
+![preview](https://raw.githubusercontent.com/chandrakumarreddy/javscript30/master/verification-inputs/preview.png)
 
 Features
 
