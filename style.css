@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap");
+
+:root {
+  font-size: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #c9bd95;
+  height: 100vh;
+  font: 400 14px / 1.5 "Nunito Sans", sans-serif, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Oxygen, Ubuntu, Cantarell, "Helvetica Neue";
+}
+
+header {
+  text-align: center;
+  font-size: 24px;
+  padding: 24px;
+  text-transform: capitalize;
+  letter-spacing: 0.1px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.websites {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 16px;
+}
+
+iframe {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.title {
+  color: black;
+  text-align: center;
+}
